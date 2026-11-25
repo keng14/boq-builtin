@@ -1,5 +1,5 @@
 /* Offline cache for BOQ ตู้บิวท์อิน. Bump VERSION after every update so phones fetch the new app. */
-const VERSION = 'boq-v6.4';
+const VERSION = 'boq-v6.5';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/icon.svg',
   'https://cdn.jsdelivr.net/npm/three@0.147.0/build/three.min.js',
   'https://cdn.jsdelivr.net/npm/three@0.147.0/examples/js/controls/OrbitControls.js'];
